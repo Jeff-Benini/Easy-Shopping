@@ -7,7 +7,7 @@
   <a href="#uso">Como Usar</a>
 </p>
 <br>
-<h2>Esse foi um projeto no curso Desenvolvedor Full Stack do <a href="https://www.devclub.com.br/">DevClub</a> com foco em HTML e CSS, buscando o aprimoramento da responsividade nos sites e também da utilização do Git e branches e GitHub buscando entender como seria uma estrutura de git utilizada no merdado na prática.</h2>
+<h2>Este projeto foi desenvolvido com base no que aprendi no curso Desenvolvedor Full Stack do <a href="https://www.devclub.com.br/">DevClub</a> com foco em HTML e CSS, buscando o aprimoramento da responsividade nos sites e também da utilização do Git e branches e GitHub buscando entender como seria uma estrutura de git utilizada no merdado na prática.</h2>
 <br>
 <h2 id="tecnologias">Tecnologias Utilizadas</h2>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> 
